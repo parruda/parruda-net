@@ -1,0 +1,15 @@
+#!/bin/bash
+
+TITLE="$*"
+SLUG=$(echo "$TITLE" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[:alnum:]-')
+DATE=$(date +"%Y-%m-%d")
+FILENAME="_posts/$DATE-$SLUG.md"
+
+cat > "$FILENAME" <<EOF
+---
+title: "$TITLE"
+date: $DATE
+---
+EOF
+
+echo "Created $FILENAME"
