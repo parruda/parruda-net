@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "headless_browser": {
+      "type": "stdio",
+      "command": "bundle",
+      "args": [
+        "exec",
+        "hbt",
+        "stdio"
+      ],
+      "env": {}
+    }
+  }
+}
