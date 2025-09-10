@@ -1,13 +1,10 @@
 ---
-title: "what-engineering-teams-need"
+title: "The Three Kinds of Leadership Every Engineering Team Needs"
 date: 2025-09-09
 categories: [Engineering]
 tags: [engineering, team, performance]
 by: parruda
 ---
-
-
-# The Three Kinds of Leadership Every Engineering Team Needs
 
 A great lessons I’ve learned this quarter is that building a successful engineering team isn’t just about hiring smart engineers or shipping features fast. It’s about leadership—and not the one-size-fits-all kind. In fact, I’ve come to believe that every great engineering team needs three distinct kinds of leadership to thrive.
 
