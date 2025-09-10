@@ -6,7 +6,7 @@ tags: [engineering, team, performance]
 by: parruda
 ---
 
-A great lessons I’ve learned this quarter is that building a successful engineering team isn’t just about hiring smart engineers or shipping features fast. It’s about leadership—and not the one-size-fits-all kind. In fact, I’ve come to believe that every great engineering team needs three distinct kinds of leadership to thrive.
+A great lesson I’ve learned this quarter is that building a successful engineering team isn’t just about hiring smart engineers or shipping features fast. It’s about leadership—and not the one-size-fits-all kind. In fact, I’ve come to believe that every great engineering team needs three distinct kinds of leadership to thrive.
 
 ## The Managerial Leader
 This is the person who makes sure the machine runs. They coordinate work, remove blockers, and ensure the team’s energy flows where it matters most. Without them, projects stall, priorities blur, and small problems snowball into crises.
